@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Java programming: the ConcurrentModificationException. The example code attempts to modify a list while iterating over it using a standard for loop, which leads to the exception. The solution demonstrates a safer approach using an iterator or other methods to avoid this error.
